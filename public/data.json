@@ -1,0 +1,146 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Hunger",
+        "author": "Suzanne Collins",
+        "image": "https://i.ibb.co/x3SSRp7/book1.png",
+        "review": "Suzanne Collins' 'The Hunger Games' is a riveting dystopian novel set in a post-apocalyptic world where the Capitol forces children to fight to the death in an annual event called the Hunger Games. Through the courageous protagonist Katniss Everdeen, Collins explores themes of survival, sacrifice, and rebellion against tyranny. 'The Hunger Games' is a gripping tale that captivates readers with its action-packed plot and thought-provoking commentary on society and power.",
+        "totalPages": 374,
+        "rating": 4.3,
+        "category": "Young Adult",
+        "tags": [
+            "Dystopian",
+            "Adventure"
+        ],
+        "publisher": "Scholastic Press",
+        "yearOfPublishing": 2008
+    },
+    {
+        "bookId": 2,
+        "bookName": "Harry Potter",
+        "author": "J.K. Rowling",
+        "image": "https://i.ibb.co/txn9GwM/book2.png",
+        "review": "J.K. Rowling's 'Harry Potter and the Sorcerer's Stone' is a magical journey into the world of Hogwarts School of Witchcraft and Wizardry. Through the eyes of the young wizard Harry Potter, Rowling creates a richly imagined universe filled with spells, potions, and mythical creatures. As Harry uncovers the truth about his past and battles the dark wizard Voldemort, readers are drawn into a thrilling adventure of courage and friendship. 'Harry Potter and the Sorcerer's Stone' is a timeless classic that continues to enchant audiences of all ages.",
+        "totalPages": 309,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": [
+            "Magic",
+            "Friendship"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "yearOfPublishing": 1997
+    },
+    {
+        "bookId": 3,
+        "bookName": "The Catcher Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/Lk5r4BC/book3.png",
+        "review": "J.D. Salinger's 'The Catcher in the Rye' is a timeless coming-of-age novel that follows the disillusioned teenager Holden Caulfield as he navigates the challenges of adolescence in 1950s America. Through Holden's cynical voice, Salinger explores themes of alienation, identity, and the loss of innocence. 'The Catcher in the Rye' remains a cultural landmark, resonating with readers for its authenticity and insight into the struggles of youth.",
+        "totalPages": 277,
+        "rating": 4.4,
+        "category": "Fiction",
+        "tags": [
+            "Bildungsroman",
+            "Cultural"
+        ],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/wMScwMv/book4.png",
+        "review": "F. Scott Fitzgerald's 'The Great Gatsby' is a masterpiece of American literature, capturing the decadence and disillusionment of the Jazz Age. Through the enigmatic Jay Gatsby and his pursuit of the elusive Daisy Buchanan, Fitzgerald explores themes of love, wealth, and the American Dream. 'The Great Gatsby' is a timeless classic that continues to resonate with readers for its lyrical prose and poignant portrayal of the human condition.",
+        "totalPages": 218,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": [
+            "Romance",
+            "Tragedy"
+        ],
+        "publisher": "Charles Scribner's Sons",
+        "yearOfPublishing": 1925
+    },
+    {
+        "bookId": 5,
+        "bookName": "To Kill Monstar",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/dsvJkwc/book5.png",
+        "review": "Harper Lee's 'To Kill a Mockingbird' is a powerful exploration of racial injustice and moral growth in the American South. Through the eyes of the young Scout Finch, Lee confronts issues of prejudice and empathy as her father, Atticus Finch, defends an innocent Black man accused of rape. 'To Kill a Mockingbird' is a timeless classic that challenges readers to confront the complexities of society and the importance of standing up for what is right.",
+        "totalPages": 281,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Drama",
+            "Social Issues"
+        ],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+    },
+    {
+        "bookId": 6,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/Tw060gS/book6.png",
+        "review": "George Orwell's '1984' is a chilling dystopian novel that serves as a stark warning against totalitarianism and government surveillance. Set in a totalitarian regime where individuality is suppressed and reality is controlled by the Party, Orwell's novel follows the protagonist Winston Smith as he rebels against the oppressive regime. '1984' remains a haunting portrayal of the dangers of authoritarianism and the erosion of freedom, offering readers a sobering reflection on the power of propaganda and the importance of preserving liberty.",
+        "totalPages": 328,
+        "rating": 4.5,
+        "category": "Science Fiction",
+        "tags": [
+            "Dystopian",
+            "Political"
+        ],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+    },
+    {
+        "bookId": 7,
+        "bookName": "The Alchemist",
+        "author": "Paulo Coelho",
+        "image": "https://i.ibb.co/RHvWH2x/book7.png",
+        "review": "Paulo Coelho's 'The Alchemist' is a timeless fable that follows the journey of Santiago, a young shepherd who sets out to discover his destiny. Along the way, Santiago encounters a series of wise mentors and learns valuable lessons about following his dreams and listening to his heart. Through its allegorical storytelling and profound insights, 'The Alchemist' inspires readers to pursue their own personal legends and embrace the unknown. Coelho's masterpiece is a testament to the transformative power of self-discovery and the pursuit of one's dreams.",
+        "totalPages": 208,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Philosophical",
+            "Spiritual"
+        ],
+        "publisher": "HarperCollins",
+        "yearOfPublishing": 1988
+    },
+    {
+        "bookId": 8,
+        "bookName": "Becoming",
+        "author": "Michelle Obama",
+        "image": "https://i.ibb.co/HhWh9Km/book8.png",
+        "review": "Michelle Obama's 'Becoming' is a deeply personal memoir that offers an intimate glimpse into her life, from her childhood in Chicago to her years as First Lady of the United States. With candor and grace, Obama reflects on her experiences, triumphs, and challenges, inspiring readers to embrace their own journeys of self-discovery and growth. 'Becoming' is not just a memoir but a testament to resilience, hope, and the power of one woman to make a difference in the world.",
+        "totalPages": 426,
+        "rating": 4.8,
+        "category": "Memoir",
+        "tags": [
+            "Autobiography",
+            "Inspirational"
+        ],
+        "publisher": "Crown Publishing Group",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": 9,
+        "bookName": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "image": "https://i.ibb.co/6N3HT30/book9.png",
+        "review": "Erin Morgenstern's 'The Night Circus' is a spellbinding tale of magic, love, and wonder set within the confines of a mysterious circus that only appears at night. Through exquisite prose and intricate world-building, Morgenstern transports readers to a place where dreams and reality intertwine. As the circus becomes the backdrop for a magical competition between two young illusionists, the reader is captivated by its enchanting performances and hidden secrets. 'The Night Circus' is a mesmerizing novel that immerses readers in a world of enchantment and mystery.",
+        "totalPages": 516,
+        "rating": 4.4,
+        "category": "Fantasy",
+        "tags": [
+            "Magic",
+            "Romance"
+        ],
+        "publisher": "Doubleday",
+        "yearOfPublishing": 2011
+    }
+]
